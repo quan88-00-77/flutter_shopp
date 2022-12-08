@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "204707694076",
+    "project_id": "flutter-shop-application-202fa",
+    "storage_bucket": "flutter-shop-application-202fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204707694076:android:a8fb38cc0f6c012065de79",
+        "android_client_info": {
+          "package_name": "com.lamto.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204707694076-p7sa2jro9833slancjo7dkaphv6e6ta0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lamto.shop_app",
+            "certificate_hash": "51f93305471a4a1c6f1ea031a35d9ed0841c42b5"
+          }
+        },
+        {
+          "client_id": "204707694076-tf3ptomk7glgp6a73qsc3pkipe30j3rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9hbxb12yVg0zoDQd0mT0SQbWUon5Ga2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204707694076-tf3ptomk7glgp6a73qsc3pkipe30j3rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
